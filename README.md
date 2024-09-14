@@ -1,6 +1,6 @@
 ### CityPD ###
 
-This project contains a masked version of consulting "market research" I performed on behalf of a client opening a family violence shelter. My work accessing and utilizing data from several sources generated insights as to how their resources could be deployed to maximize impact.
+This project is an illustration in ETL and analysis, a masked version of consultant "market research" I performed on behalf of a client opening a family violence shelter. My work accessing and utilizing data from several sources with incompatible filetypes and table structures generated insights as to how their resources could be deployed to maximize impact.
 
 DATA MASKING POLICY: 
 
